@@ -1,0 +1,24 @@
+{
+  "name": "my-inner-journal",
+  "version": "1.0.0",
+  "description": "\"A private cognitive journal that identifies thinking patterns and connects them to scripture.\"",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Alex101234/my-inner-journal/issues"
+  },
+  "homepage": "https://github.com/Alex101234/my-inner-journal#readme",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
